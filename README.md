@@ -16,24 +16,7 @@ This Java project implements a simple car dealership system that allows both adm
 - **Budget Selection:** Customers can select their budget range to view cars within that range.
 - **Car Selection:** Customers can view available cars within their selected budget range and select a car for purchase.
 
-## How to Use
-
-1. **Clone the Repository:**
-   ```
-   git clone https://github.com/your-username/car-dealership-system.git
-   ```
-
-2. **Compile the Code:**
-   ```
-   javac Myproject.java
-   ```
-
-3. **Run the Program:**
-   ```
-   java Myproject
-   ```
-
-4. **Follow the On-Screen Instructions:**
+**Follow the On-Screen Instructions:**
    - For administrators, enter the password when prompted and navigate through the menu options.
    - For customers, select your budget range and choose a car.
 
