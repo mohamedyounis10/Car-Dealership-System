@@ -22,6 +22,6 @@ This Java project implements a simple car dealership system that allows both adm
 
 ## Project Structure
 
-- **Myproject.java:** Main Java file containing the main class and entry point of the program.
+- **CarDealershipSystem.java:** Main Java file containing the main class and entry point of the program.
 - **admin.java:** Class definition for the admin user with properties and methods related to car management.
 
